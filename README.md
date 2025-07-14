@@ -15,6 +15,7 @@ This is a beginner-friendly music visualiser web app built with JavaScript and t
 - **HTML/CSS**: For the web page structure and basic styling.
 
 ## How to Use
+**[Visit this URL](https://my-music-visualiser.vercel.app/)**
 Use the on-screen controls or keyboard shortcuts:
    - `M`: Open/close menu
    - `1-6`: Switch visualisation
